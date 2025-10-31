@@ -240,11 +240,3 @@ Hints:
 
 ---
 
-## 💡 Trainer Pro Tips
-
-* Demo with student names, emails, login IDs
-* Show duplicates filtering live
-* Ask them to implement validation:
-  **No duplicate email registration**
-
----
